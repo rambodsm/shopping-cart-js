@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "آیفون ۱۳ پرو خاکستری",
+        "price": 5800000,
+        "image": { "fields": { "file": { "url": "./images/1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title":"آیفون ۱۳ پرو آبی",
+        "price": 679000,
+        "image": { "fields": { "file": { "url": "./images/2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "آیفون ۱۳ پرو سبز",
+        "price": 790000,
+        "image": { "fields": { "file": { "url": "./images/3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "آیفون ۱۳ پرو طلایی",
+        "price": 99000,
+        "image": { "fields": { "file": { "url": "./images/4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "آیفون ۱۴ پرو خاکستری",
+        "price": 900000,
+        "image": { "fields": { "file": { "url": "./images/5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "آیفون ۱۲ سبز",
+        "price": 590000,
+        "image": { "fields": { "file": { "url": "./images/6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "آیفون ۱۲ پرو آبی تیره",
+        "price": 990000,
+        "image": { "fields": { "file": { "url": "./images/7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "آیفون ۱۳ مشکی",
+        "price": 490000,
+        "image": { "fields": { "file": { "url": "./images/8.jpg" } } }
+      }
+    }
+  ]
+}
